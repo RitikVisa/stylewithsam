@@ -4,7 +4,8 @@
 
 }
 
-body{
+html,body{
+    max-width: 360px;
     font-family: 'Epilogue', sans-serif;
     color: white;
 }
@@ -36,9 +37,7 @@ p{
     color:black
 }
 
-h6{
-    color: #D01542;
-}
+
 
 input{
     font-size: 11px;
