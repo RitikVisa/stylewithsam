@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+}
+
+.containerr{
+    width: 360px;
+    background-color: #C3203F;
+}
+
+
+
+.itl{
+    font-style: italic;
+    color: white;
+    font-size: 11px;
+}
+
+.reg{
+    font-size: 11px;
+    font-style: normal;
+}
+
+i{
+    padding: 10px;
+}
+
+p{
+    font-size: 9px;
+    color:black
+}
+
+h6{
+    color: #D01542;
+}
+
+input{
+    font-size: 11px;
+    border-radius: 10px;
+}
+
